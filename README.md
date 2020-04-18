@@ -1,6 +1,6 @@
-# 小木虫考研调剂信息爬虫2
+# 小木虫考研调剂信息爬虫
 
-`git clone https://git.mmuaa.com/Kidultff/redistribute-spider.git`
+`git clone https://github.com/Kidultff/redistribute-spider.git`
 
 在config.py中按照提示信息进行设置
 
